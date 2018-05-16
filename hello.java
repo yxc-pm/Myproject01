@@ -4,5 +4,6 @@ public class hello{
 	System.out.println("pgChanged");
 	int i=100;
 	int j=10;
+	String str="hello";
     }
 }
