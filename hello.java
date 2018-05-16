@@ -3,5 +3,6 @@ public class hello{
     	System.out.println("Hello World");
 	System.out.println("pgChanged");
 	int i=100;
+	int j=10;
     }
 }
