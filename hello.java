@@ -6,6 +6,6 @@ public class hello{
 	int j=10;
 	String str="hello222";
    1231213123213
-	   int = 1111;
+	   int = 11;
     }
 }
